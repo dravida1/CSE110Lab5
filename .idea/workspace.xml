@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3fc9ca0-22b8-4cee-bf3d-f43eba4ecf32" name="Default Changelist" comment="" />
+    <list default="true" id="c3fc9ca0-22b8-4cee-bf3d-f43eba4ecf32" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -139,7 +141,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
+            <state relative-caret-position="133">
               <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
               <folding>
                 <element signature="e#30#71#0" expanded="true" />
@@ -204,8 +206,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="9" />
-    <option name="y" value="30" />
+    <option name="x" value="116" />
+    <option name="y" value="33" />
     <option name="width" value="848" />
     <option name="height" value="757" />
   </component>
@@ -224,24 +226,6 @@
               <item name="Project110" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project110" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Project110" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project110" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project110" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project110" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cs110" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project110" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project110" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cs110" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -254,7 +238,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542103188902" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542103544739" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -348,7 +332,7 @@
       <option name="presentableId" value="Default" />
       <updated>1542067776780</updated>
       <workItem from="1542067782656" duration="9023000" />
-      <workItem from="1542101434819" duration="1375000" />
+      <workItem from="1542101434819" duration="1604000" />
     </task>
     <servers />
   </component>
@@ -377,12 +361,15 @@
     <history-entry file="edu_ucsd_cs110_tests_in_Project110 - 2018.11.12 at 21h 32m 05s.xml">
       <configuration name="edu.ucsd.cs110.tests in Project110" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="edu_ucsd_cs110_tests_in_Project110 - 2018.11.13 at 01h 59m 54s.xml">
+      <configuration name="edu.ucsd.cs110.tests in Project110" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10398000" />
+    <option name="totallyTimeSpent" value="10627000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="9" y="30" width="848" height="757" extended-state="0" />
+    <frame x="116" y="33" width="848" height="757" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49775785" visible="true" weight="0.308933" />
       <window_info id="Structure" order="1" sideWeight="0.50224215" side_tool="true" weight="0.30148885" />
@@ -393,7 +380,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50224215" side_tool="true" weight="0.30148885" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32932332" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32932332" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -504,7 +491,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
+        <state relative-caret-position="133">
           <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
           <folding>
             <element signature="e#30#71#0" expanded="true" />
