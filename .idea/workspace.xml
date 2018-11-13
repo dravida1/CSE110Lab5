@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3fc9ca0-22b8-4cee-bf3d-f43eba4ecf32" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c3fc9ca0-22b8-4cee-bf3d-f43eba4ecf32" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +105,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3771" />
+            <state relative-caret-position="-6" />
           </provider>
         </entry>
       </file>
@@ -357,7 +355,7 @@
       <option name="presentableId" value="Default" />
       <updated>1542067776780</updated>
       <workItem from="1542067782656" duration="9023000" />
-      <workItem from="1542101434819" duration="229000" />
+      <workItem from="1542101434819" duration="445000" />
     </task>
     <servers />
   </component>
